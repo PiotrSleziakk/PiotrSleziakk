@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PiotrSleziakk
 - 👀 I’m interested in gaming and programing
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate 
 - 📫 piotrsleziakk@gmail.com
 
 <!---
