@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PiotrSleziakk
-- 👀 I’m interested in gaming and web app development
-- 🌱 I’m currently learning Unreal Engine 5
+- 👋 Hi, I’m @PiotrSleziakk.
+- 👀 I’m interested in gaming and web app development.
+- 🌱 I’m currently learning Unreal Engine 5 and web app development.
 - 📫 piotrsleziakk@gmail.com
 
 <!---
